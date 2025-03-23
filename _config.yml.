@@ -1,5 +1,7 @@
 title: "Cartas Pokémon"
 description: "Coleção de cartas Pokémon à venda."
-theme: jekyll-theme-slate
-url: "https://Gameboyflex.github.io"
+url: "https://GameboyFlex.github.io"
 baseurl: "/cartas-pokemon"
+theme: "minimal-mistakes-jekyll"
+plugins:
+  - jekyll-seo-tag
